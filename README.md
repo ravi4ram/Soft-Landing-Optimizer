@@ -72,9 +72,6 @@ Euler integration ( w[t+1] = w[t] + dt * f(t,w[t]) ) is used for solving the dyn
 ### Convex Optimization    
 
 Python library CVXPY [ https://www.cvxpy.org/ ] used for optimization,    
-&nbsp;        
-Weighted sum cost function approach is used and multiple objectives are weighted and summed together to create a composite objective function. Optimization of this composite objective results in the optimization of individual objective functions.     
-&nbsp;   
 
 ## Setup
 Script is written with python (Version: 3.6) on linux. Additional modules required :   
